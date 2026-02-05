@@ -1,9 +1,9 @@
 # Main Sharing
->[!TIPS]
+>[!TIP]
 > 主要分享的是计算机方向的**留学申请经验**。  
 > 如果大家想听，我也可以补充一点未来就业/科研/AI（算法相关）的内容。
 > 如果中途有什么疑问的或者想进一步了解的，可以随时打断我并提问，just feel free；
-
+https://github.com/BrenchCC/Simple-share
 # Simple Self-Introduction～简单自我介绍
 
 - Name：陈柏政 / Brench（华南师范大学 2025 届人工智能专业本科毕业）
